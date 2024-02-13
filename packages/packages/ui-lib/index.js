@@ -1,5 +1,7 @@
 const templang = require('../templang');
 const { init, h, thunk } = require('snabbdom');
+export { default as Button } from './Button';
+export { default as Input } from './Input';
 const patch = init([thunk]);
 
 class UIComponent {

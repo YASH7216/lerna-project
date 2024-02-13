@@ -1,0 +1,34 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.4",
+  "deps": {
+    "snabbdom": "^3.6.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": "app.js",
+        "hash": "15981475347113417101"
+      },
+      {
+        "file": "index.html",
+        "hash": "5946966863219028547"
+      },
+      {
+        "file": "index.js",
+        "hash": "13419680121549811149"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "6109107906262689344"
+      },
+      {
+        "file": "package.json",
+        "hash": "13085801472407584615"
+      }
+    ]
+  }
+}

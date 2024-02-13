@@ -1,0 +1,14 @@
+{
+  "externalNodes": {
+    "npm:snabbdom": {
+      "type": "npm",
+      "name": "npm:snabbdom",
+      "data": {
+        "version": "3.6.2",
+        "packageName": "snabbdom",
+        "hash": "sha512-ig5qOnCDbugFntKi6c7Xlib8bA6xiJVk8O+WdFrV3wxbMqeHO0hXFQC4nAhPVWfZfi8255lcZkNhtIBINCc4+Q=="
+      }
+    }
+  },
+  "dependencies": []
+}
